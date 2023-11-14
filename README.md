@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Madden Woolfall
+- 👀 I’m interested in Coding, Video Editing & Photo Editing
+- 🌱 I’m currently learning HTML
+- 📫 Feel free to reach out to me at madden.wool@gmail.com
